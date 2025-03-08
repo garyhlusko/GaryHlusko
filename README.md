@@ -47,7 +47,7 @@ Here are some of the tools and technologies I use:
 https://tenor.com/eWNY8SgBZq4.gif
 > 
 > *"Never tell me the odds."* – **Han Solo, Star Wars**  
-> https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1taGc0dThodHhuZWkzYnQwNG53bWxjMzYyMW44cWp1MXJzMm1ubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwGfDI2zFNOZcdk4/giphy.gif
+(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1taGc0dThodHhuZWkzYnQwNG53bWxjMzYyMW44cWp1MXJzMm1ubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwGfDI2zFNOZcdk4/giphy.gif)
 
 > *"Peace is not the absence of war. It’s the presence of justice."* – **Relena Peacecraft**
 
