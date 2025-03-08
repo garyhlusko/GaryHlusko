@@ -1,12 +1,14 @@
 # Hi, I'm Gary Hlusko 👋
 
-> ![Banner](https://makeagif.com/i/l5c_uq)
+> ![Banner](https://github.com/user-attachments/assets/5123549c-ea3f-4c86-9b9a-b2c45930d6a8)
 
 Welcome to my GitHub profile! I'm a **data-driven problem solver** with a passion for **math, economics, statistics, startups, and tech development**. I love building innovative solutions and exploring the intersection of technology and business.
 
 ---
 
 ## 🚀 About Me
+
+![yXrDdeX](https://github.com/user-attachments/assets/c2a89f61-2334-4308-ad76-2c7f79ee2a67)
 
 - 🔭 I’m currently working on **data-driven solutions** to solve complex problems.
 - 🌱 I’m learning **advanced statistical modeling** and **machine learning techniques**.
@@ -20,12 +22,7 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** with a passio
 Here are some of the tools and technologies I use:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -37,6 +34,7 @@ Here are some of the tools and technologies I use:
 - **Tech Development**: Creating tools and platforms that drive impact.
 
 ---
+
 
 ## 🌌 Favorite Quotes
 
