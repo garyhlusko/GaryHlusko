@@ -38,9 +38,6 @@ Here are some of the tools and technologies I use:
 
 ## 🌌 Favorite Quotes
 
-> *"The future is already here. It’s just not evenly distributed."*
-
-> *"The body is just hardware. The mind is the software that matters."* – **Takeshi Kovacs**
 > ![Altered Carbon](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp0OGJ4YWlrNHc0eXIweGNsM2NvMzBrZ3Nmamd3MXdtdHQyYWQ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwFTsnQe2wuNLvry/giphy.gif)
 
 > *"The only privacy left is the inside of your head."* – **Brill, Enemy of the State**  
@@ -48,12 +45,8 @@ Here are some of the tools and technologies I use:
 
 > *"Never tell me the odds."* – **Han Solo, Star Wars**  
 
-> *"Peace is not the absence of war. It’s the presence of justice."* – **Relena Peacecraft**
-
 > *"The strong exist, not to feed off of the weak, but to protect them!"* – **Kenshin Himura**  
 > ![Kenshin](https://tenor.com/view/kenshin-gif-22045539)
-
-> *"The world of espionage is a world of shadows. And in the shadows, nothing is as it seems."* – **Jason Bourne, The Bourne Supremacy**
 
 >"He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God."
 ---
