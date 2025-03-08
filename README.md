@@ -1,6 +1,6 @@
 # Hi, I'm Gary Hlusko 👋
 
-![Banner](https://makeagif.com/i/l5c_uq)
+> ![Banner](https://makeagif.com/i/l5c_uq)
 
 Welcome to my GitHub profile! I'm a **data-driven problem solver** with a passion for **math, economics, statistics, startups, and tech development**. I love building innovative solutions and exploring the intersection of technology and business.
 
